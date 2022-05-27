@@ -118,6 +118,7 @@ ul.menu_child li {
 		  max-width: 100%;
 		  position: relative;
 		  margin: unset;
+          width: 100%;
 		}
 		img {
 			vertical-align: middle;
